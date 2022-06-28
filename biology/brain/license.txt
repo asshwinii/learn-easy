@@ -1,0 +1,11 @@
+Model Information:
+* title:	Exploded Brain 13
+* source:	https://sketchfab.com/3d-models/exploded-brain-13-2976472cd5734c5bbe7f8271661ccf88
+* author:	start2tech21 (https://sketchfab.com/start2tech21)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Exploded Brain 13" (https://sketchfab.com/3d-models/exploded-brain-13-2976472cd5734c5bbe7f8271661ccf88) by start2tech21 (https://sketchfab.com/start2tech21) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

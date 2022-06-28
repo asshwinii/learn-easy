@@ -1,0 +1,11 @@
+Model Information:
+* title:	H2O Reaktionsschema – FHE
+* source:	https://sketchfab.com/3d-models/h2o-reaktionsschema-fhe-5660f3d9cdf743e08c81ae60fc3eb8d0
+* author:	n-twerft (https://sketchfab.com/n-twerft)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "H2O Reaktionsschema – FHE" (https://sketchfab.com/3d-models/h2o-reaktionsschema-fhe-5660f3d9cdf743e08c81ae60fc3eb8d0) by n-twerft (https://sketchfab.com/n-twerft) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
